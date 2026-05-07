@@ -19,6 +19,7 @@ SQLite (Django default internal database using migrations)
 HTML, CSS, Bootstrap
 
 📂 **Project Structure**
+```text
 project/
 │
 ├── school/
@@ -30,3 +31,4 @@ project/
 │   └── css/
 ├── db.sqlite3
 └── manage.py
+```
