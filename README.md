@@ -1,4 +1,4 @@
-**Teacher Management CRM System built using Django**
+**School Management CRM System built using Django**
 
 This project demonstrates the development of a CRM-style Teacher Management System using Django. It covers project setup, reusable app structuring, database model design, views, and template integration to efficiently manage teacher records and related operations.
 
@@ -7,6 +7,7 @@ The application is designed following Django best practices with modular and reu
 🚀 **Features**
 ```text
 Teacher record management (Create, Read, Update, Delete)
+Student record management (Create, Read, Update, Delete)
 Reusable Django app structure
 Database integration using Django ORM
 Template-based frontend rendering
@@ -27,10 +28,12 @@ HTML, CSS, Bootstrap
 project/
 │
 ├── school/
+├── students/
 ├── teachers/
 ├── templates/
 ├── media/
 │   └── templates/
+|   └── students/
 ├── static/
 │   └── css/
 ├── db.sqlite3
