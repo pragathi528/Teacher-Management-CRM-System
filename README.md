@@ -1,32 +1,60 @@
 **School Management CRM System built using Django**
 
-This project demonstrates the development of a CRM-style School Management System using Django. It covers project setup, reusable app structuring, database model design, views, and template integration to efficiently manage teacher records and related operations.
-
-The application is designed following Django best practices with modular and reusable apps, making it scalable and easy to maintain. It provides hands-on experience in backend development, CRUD operations, database handling, and template rendering.
+A complete School Management CRM System built using Django and Django REST Framework with authentication, role-based access, and CRUD operations for managing students and teachers.
 
 🚀 **Features**
 ```text
-Teacher record management (Create, Read, Update, Delete)
-Student record management (Create, Read, Update, Delete)
-Reusable Django app structure
-Database integration using Django ORM
-Template-based frontend rendering
-Organized URL routing and views
-Scalable CRM-style architecture
+🔐 Authentication System
+User Registration
+User Login & Logout
+Django Authentication
 ```
 
-🛠️ **Tech Stack**
+👨‍🏫 **Teacher Management**
+```text
+Add Teacher
+Update Teacher
+Delete Teacher
+View Teacher Details
+```
+
+🎓 **Student Management**
+```text
+Add Student
+Update Student
+Delete Student
+Upload Student Images
+View Student Details
+```
+🛠️ **Technologies Used**
 ```text
 Python
 Django
+Django REST Framework (DRF)
 SQLite (Django default internal database using migrations)
-HTML, CSS, Bootstrap
+Bootstrap 5
+HTML5
+CSS3
+Git & GitHub
+```
+
+📸 **Features Implemented**
+```text
+✅ CRUD Operations
+✅ Dynamic Templates
+✅ Image Upload
+✅ Authentication System
+✅ Role-Based Access
+✅ Bootstrap UI
+✅ Django Admin Panel
+✅ Form Validation
 ```
 
 📂 **Project Structure**
 ```text
 project/
 │
+├── author/
 ├── school/
 ├── students/
 ├── teachers/
