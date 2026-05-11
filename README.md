@@ -1,6 +1,6 @@
 **School Management CRM System built using Django**
 
-A complete School Management CRM System built using Django and Django REST Framework with authentication, role-based access, and CRUD operations for managing students and teachers.
+A complete School Management CRM System built using Django and Django REST Framework with authentication and CRUD operations for managing students and teachers.
 
 🚀 **Features**
 ```text
