@@ -67,3 +67,6 @@ project/
 ├── db.sqlite3
 └── manage.py
 ```
+
+<img width="1911" height="900" alt="image" src="https://github.com/user-attachments/assets/276f5844-5837-4048-be00-671dad0cfe24" />
+
